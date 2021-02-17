@@ -19,3 +19,19 @@ PART 1: Directions on Using Webstorm
 </br>13.In <b>Github</b> click settings and check the <b>Repository</b> name
 </br>14.Scroll down to <b>Github</b> Page Location and chose Master <b>Branch</b> in Source.
 </br>15.Copy your <b>Github</b>.io URL and search it to see what you made.
+<br>
+<br>PART 2. Glossary
+<br><ul>
+        <li><b>Branch</b>: I think of branches (aside from the main branch) as workspaces to experiment with new code. The main branch is where all of your working code should be on when working alone or in a group.</li>
+        <li><b>Clone</b>: This is like copying and pasting in a sense. You can copy repositories onto your local machine from Github </li>
+        <li><b>Commit</b>: This is a good way to keep a history of the changes you made in your code. Each commit shows the time it was done and what was changed. </li>
+        <li><b>Fetch</b>: This is like a request to see other peoples work in commits, files, and repositories.  </li>
+        <li><b>GIT</b>: This is a program that helps tracks your work and what you change in your code, commits, etc. It is like a record history. </li>
+        <li><b>Github</b>: This is like the web version of GIT and makes working with teams and collaborations easier. </li>
+        <li><b>Merge</b>: This means combining which you can do for branches  </li>
+        <li><b>Merge Conflict</b>: This happens when changes happen in the same file in the same line of code </li>
+        <li><b>Push</b>: This brings all your work on from your local machine to the remote branch you want your work to go to. </li>
+        <li><b>Pull</b>: This is the opposite of push, now you are requesting to bring work from a remote location to your local workspace/machine </li>
+        <li><b>Remote</b>: This manages commands that track and work with your local repository  </li>
+        <li><b>Repository</b>: This is the folder inside your project that tracks your changes of the project. </li>
+    </ul>
