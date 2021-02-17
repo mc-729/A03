@@ -35,3 +35,9 @@ PART 1: Directions on Using Webstorm
         <li><b>Remote</b>: This manages commands that track and work with your local repository  </li>
         <li><b>Repository</b>: This is the folder inside your project that tracks your changes of the project. </li>
     </ul>
+<br>References:
+<br><ul>
+        <li>https://github.com/git-guides/ </li>
+        <li>https://docs.github.com/en </li>
+        <li>In Class Powerpoint Presentations </li>
+    </ul>
